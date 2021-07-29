@@ -1,0 +1,13 @@
+D:\trabalhos C#\Soma nota de aluno\Soma nota de aluno\bin\Debug\netcoreapp3.1\Soma nota de aluno.exe
+D:\trabalhos C#\Soma nota de aluno\Soma nota de aluno\bin\Debug\netcoreapp3.1\Soma nota de aluno.deps.json
+D:\trabalhos C#\Soma nota de aluno\Soma nota de aluno\bin\Debug\netcoreapp3.1\Soma nota de aluno.runtimeconfig.json
+D:\trabalhos C#\Soma nota de aluno\Soma nota de aluno\bin\Debug\netcoreapp3.1\Soma nota de aluno.runtimeconfig.dev.json
+D:\trabalhos C#\Soma nota de aluno\Soma nota de aluno\bin\Debug\netcoreapp3.1\Soma nota de aluno.dll
+D:\trabalhos C#\Soma nota de aluno\Soma nota de aluno\bin\Debug\netcoreapp3.1\Soma nota de aluno.pdb
+D:\trabalhos C#\Soma nota de aluno\Soma nota de aluno\obj\Debug\netcoreapp3.1\Soma nota de aluno.csproj.AssemblyReference.cache
+D:\trabalhos C#\Soma nota de aluno\Soma nota de aluno\obj\Debug\netcoreapp3.1\Soma nota de aluno.AssemblyInfoInputs.cache
+D:\trabalhos C#\Soma nota de aluno\Soma nota de aluno\obj\Debug\netcoreapp3.1\Soma nota de aluno.AssemblyInfo.cs
+D:\trabalhos C#\Soma nota de aluno\Soma nota de aluno\obj\Debug\netcoreapp3.1\Soma nota de aluno.csproj.CoreCompileInputs.cache
+D:\trabalhos C#\Soma nota de aluno\Soma nota de aluno\obj\Debug\netcoreapp3.1\Soma nota de aluno.dll
+D:\trabalhos C#\Soma nota de aluno\Soma nota de aluno\obj\Debug\netcoreapp3.1\Soma nota de aluno.pdb
+D:\trabalhos C#\Soma nota de aluno\Soma nota de aluno\obj\Debug\netcoreapp3.1\Soma nota de aluno.genruntimeconfig.cache
